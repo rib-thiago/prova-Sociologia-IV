@@ -1,0 +1,104 @@
+# Catálogo de links — C. G. Jung pela Editora Vozes
+
+Arquivo placeholder para preencher com URLs públicas/localizadas à medida que os volumes forem encontrados.
+
+> Observação: este arquivo é apenas um catálogo de referência. Preencher com links e metadados de verificação, sem baixar ou redistribuir os PDFs.
+
+## Sequência da Obra Completa de Jung pela Vozes
+
+| Status | Vol. | Título | URL do PDF | Fonte/observação |
+|---|---:|---|---|---|
+| ☐ | 1 | Estudos psiquiátricos |  |  |
+| ☐ | 2 | Estudos experimentais |  |  |
+| ☐ | 3 | Psicogênese das doenças mentais |  |  |
+| ☐ | 4 | Freud e a psicanálise |  |  |
+| ☐ | 5 | Símbolos da transformação |  |  |
+| ☐ | 6 | Tipos psicológicos |  |  |
+| ☐ | 7/1 | Psicologia do inconsciente |  |  |
+| ☐ | 7/2 | O eu e o inconsciente |  |  |
+| ☐ | 8/1 | A energia psíquica |  |  |
+| ☐ | 8/2 | A natureza da psique |  |  |
+| ☐ | 8/3 | Sincronicidade |  |  |
+| ☐ | 9/1 | Os arquétipos e o inconsciente coletivo |  |  |
+| ☐ | 9/2 | Aion: estudos sobre o simbolismo do si-mesmo |  |  |
+| ☐ | 10/1 | Presente e futuro |  |  |
+| ☐ | 10/2 | Aspectos do drama contemporâneo |  |  |
+| ☐ | 10/3 | Civilização em transição |  |  |
+| ☐ | 10/4 | Um mito moderno sobre coisas vistas no céu |  |  |
+| ☐ | 11/1 | Psicologia e religião |  |  |
+| ☐ | 11/2 | Interpretação psicológica do dogma da Trindade |  |  |
+| ☐ | 11/3 | O símbolo da transformação na missa |  |  |
+| ☐ | 11/4 | Resposta a Jó |  |  |
+| ☐ | 11/5 | Psicologia e religião oriental |  |  |
+| ☐ | 11/6 | Escritos diversos |  | Aparece no catálogo atual da Vozes como parte da coleção, com essa numeração. |
+| ☐ | 12 | Psicologia e alquimia |  |  |
+| ☐ | 13 | Estudos alquímicos |  |  |
+| ☐ | 14/1 | Mysterium Coniunctionis I |  |  |
+| ☐ | 14/2 | Mysterium Coniunctionis II |  |  |
+| ☐ | 14/3 | Mysterium Coniunctionis III |  |  |
+| ☐ | 15 | O espírito na arte e na ciência |  |  |
+| ☐ | 16/1 | A prática da psicoterapia |  |  |
+| ☐ | 16/2 | Ab-reação, análise dos sonhos e transferência |  |  |
+| ☐ | 17 | O desenvolvimento da personalidade |  |  |
+| ☐ | 18/1 | A vida simbólica I |  |  |
+| ☐ | 18/2 | A vida simbólica II |  |  |
+| ☐ | 20 | Índices gerais: onomástico e analítico |  | A Vozes lista este volume separadamente como Índices gerais Vol. 20. |
+
+## Fora da Obra Completa, mas também no catálogo da Vozes
+
+| Status | Título | URL do PDF | Fonte/observação |
+|---|---|---|---|
+| ☐ | O Livro Vermelho — Liber Novus |  |  |
+| ☐ | Os Livros Negros — Caixa 7 volumes |  |  |
+| ☐ | A arte de C. G. Jung |  |  |
+| ☐ | O Zaratustra de Nietzsche |  |  |
+| ☐ | Transformações e símbolos da libido |  |  |
+| ☐ | Mandala |  |  |
+| ☐ | Aspectos do feminino |  |  |
+
+## Padrão provável de nomes de arquivo
+
+Alguns arquivos observados seguem o padrão:
+
+```text
+<codigo>_jung_<titulo_normalizado>.pdf
+```
+
+Exemplos de códigos:
+
+| Volume | Código provável |
+|---:|---:|
+| 7/1 | 71 |
+| 7/2 | 72 |
+| 8/1 | 81 |
+| 8/2 | 82 |
+| 8/3 | 83 |
+| 9/1 | 91 |
+| 9/2 | 92 |
+| 10/1 | 101 |
+| 10/2 | 102 |
+| 10/3 | 103 |
+| 10/4 | 104 |
+| 11/1 | 111 |
+| 11/2 | 112 |
+| 11/3 | 113 |
+| 11/4 | 114 |
+| 11/5 | 115 |
+| 11/6 | 116 |
+| 14/1 | 141 |
+| 14/2 | 142 |
+| 14/3 | 143 |
+| 16/1 | 161 |
+| 16/2 | 162 |
+| 18/1 | 181 |
+| 18/2 | 182 |
+
+## Controle de verificação
+
+Use esta legenda na coluna **Status**:
+
+- `☐` — não verificado
+- `✅` — URL confirmada
+- `⚠️` — candidato encontrado, mas precisa conferir
+- `❌` — não encontrado
+- `🔒` — acesso bloqueado/restrito
