@@ -8,33 +8,33 @@ Arquivo placeholder para preencher com URLs públicas/localizadas à medida que 
 
 | Status | Vol. | Título | URL do PDF | Fonte/observação |
 |---|---:|---|---|---|
-| ☐ | 1 | Estudos psiquiátricos |  |  |
+| ✅ | 1 | Estudos psiquiátricos | https://www.ijusc.com.br/wp-content/uploads/2021/05/1_jung_estudos_psiquiatricos.pdf |  |
 | ☐ | 2 | Estudos experimentais |  |  |
 | ☐ | 3 | Psicogênese das doenças mentais |  |  |
 | ☐ | 4 | Freud e a psicanálise |  |  |
 | ☐ | 5 | Símbolos da transformação |  |  |
-| ☐ | 6 | Tipos psicológicos |  |  |
+| ✅ | 6 | Tipos psicológicos | https://www.ijusc.com.br/wp-content/uploads/2021/06/6_jung_tipos_psicologicos.pdf |  |
 | ☐ | 7/1 | Psicologia do inconsciente |  |  |
-| ☐ | 7/2 | O eu e o inconsciente |  |  |
+| ✅ | 7/2 | O eu e o inconsciente | https://www.ijusc.com.br/wp-content/uploads/2021/06/72_jung_o_eu_e_o_inconsciente.pdf |  |
 | ☐ | 8/1 | A energia psíquica |  |  |
 | ☐ | 8/2 | A natureza da psique |  |  |
-| ☐ | 8/3 | Sincronicidade |  |  |
-| ☐ | 9/1 | Os arquétipos e o inconsciente coletivo |  |  |
-| ☐ | 9/2 | Aion: estudos sobre o simbolismo do si-mesmo |  |  |
+| ✅ | 8/3 | Sincronicidade | https://www.ijusc.com.br/wp-content/uploads/2021/06/83_jung_sincronicidade.pdf |  |
+| ✅ | 9/1 | Os arquétipos e o inconsciente coletivo | https://www.ijusc.com.br/wp-content/uploads/2021/06/91_jung_os_arquetipos_e_o_inconsciente_coletivo.pdf |  |
+| ✅ | 9/2 | Aion: estudos sobre o simbolismo do si-mesmo | https://www.ijusc.com.br/wp-content/uploads/2021/06/92_jung_aion.pdf |  |
 | ☐ | 10/1 | Presente e futuro |  |  |
 | ☐ | 10/2 | Aspectos do drama contemporâneo |  |  |
 | ☐ | 10/3 | Civilização em transição |  |  |
-| ☐ | 10/4 | Um mito moderno sobre coisas vistas no céu |  |  |
+| ✅ | 10/4 | Um mito moderno sobre coisas vistas no céu | https://www.ijusc.com.br/wp-content/uploads/2021/06/104_jung_um_mito_moderno_-sobre_coisas_vistas_no_ceu-.pdf |  |
 | ☐ | 11/1 | Psicologia e religião |  |  |
-| ☐ | 11/2 | Interpretação psicológica do dogma da Trindade |  |  |
-| ☐ | 11/3 | O símbolo da transformação na missa |  |  |
-| ☐ | 11/4 | Resposta a Jó |  |  |
+| ✅ | 11/2 | Interpretação psicológica do dogma da Trindade | https://www.ijusc.com.br//wp-content//uploads//2021//06//112_jung_interpretacao_psicologica_do_dogma_da_trindade.pdf |  |
+| ✅ | 11/3 | O símbolo da transformação na missa | https://www.ijusc.com.br/wp-content/uploads/2021/06/113_jung_o_simbolo_da_transformacao_na_missa.pdf |  |
+| ✅ | 11/4 | Resposta a Jó | https://www.ijusc.com.br/wp-content/uploads/2021/06/114_jung_resposta_a_jo.pdf |  |
 | ☐ | 11/5 | Psicologia e religião oriental |  |  |
 | ☐ | 11/6 | Escritos diversos |  | Aparece no catálogo atual da Vozes como parte da coleção, com essa numeração. |
 | ☐ | 12 | Psicologia e alquimia |  |  |
 | ☐ | 13 | Estudos alquímicos |  |  |
 | ☐ | 14/1 | Mysterium Coniunctionis I |  |  |
-| ☐ | 14/2 | Mysterium Coniunctionis II |  |  |
+| ✅ | 14/2 | Mysterium Coniunctionis II | https://www.ijusc.com.br/wp-content/uploads/2021/06/142_jung_mysterium_coniunctionis.pdf |  |
 | ☐ | 14/3 | Mysterium Coniunctionis III |  |  |
 | ☐ | 15 | O espírito na arte e na ciência |  |  |
 | ☐ | 16/1 | A prática da psicoterapia |  |  |
