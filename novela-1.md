@@ -20,8 +20,8 @@ Eu trataria esses eixos não apenas como “temas”, mas como *possíveis probl
                      │
        ┌─────────────┼─────────────┐
        ▼             ▼             ▼
-   Contratos      Hierarquia     Carreiras
-   estáveis       profissional   relativamente
+    Contratos      Hierarquia     Carreiras
+    estáveis       profissional   relativamente
                                   estruturadas
        │             │             │
        └─────────────┼─────────────┘
@@ -36,8 +36,8 @@ Eu trataria esses eixos não apenas como “temas”, mas como *possíveis probl
                      │
        ┌─────────────┼─────────────┐
        ▼             ▼             ▼
-   Projetos       Freelancing    Produção
-   pontuais       / PJ           acelerada
+    Projetos       Freelancing    Produção
+    pontuais       / PJ           acelerada
        │             │             │
        └─────────────┼─────────────┘
                      ▼
@@ -252,7 +252,7 @@ Eu trataria esses eixos não apenas como “temas”, mas como *possíveis probl
      TikTok     Kwai     Instagram
         │         │         │
         ▼         ▼         ▼
-   CONTEÚDOS DIFERENTES
+    CONTEÚDOS DIFERENTES
         │         │         │
         └─────────┼─────────┘
                   ▼
@@ -404,7 +404,7 @@ SOCIEDADE → PRODUZ NOVELINHAS
                   │
        ┌──────────┼──────────┐
        ▼          ▼          ▼
-   Ambivalência  Mudança   Contradições
+    Ambivalência  Mudança   Contradições
        │          │          │
        └──────────┼──────────┘
                   ▼
@@ -440,23 +440,23 @@ SOCIEDADE → PRODUZ NOVELINHAS
 
  Por exemplo, pobreza pode ser representada como:
 
-DESIGUALDADE SOCIAL
-        │
-        ▼
-   ESTRUTURAS SOCIAIS
-        │
-        ▼
-     conflito
+    DESIGUALDADE SOCIAL
+            │
+            ▼
+       ESTRUTURAS SOCIAIS
+            │
+            ▼
+         conflito
 
  ou como:
 
-"mocinha pobre"
-      │
-      ▼
-"vilão rico"
-      │
-      ▼
-vingança individual
+    "mocinha pobre"
+          │
+          ▼
+    "vilão rico"
+          │
+          ▼
+    vingança individual
 
  Isso abre uma investigação extremamente interessante sobre *individualização dos problemas sociais*.
 
@@ -513,15 +513,15 @@ vingança individual
 
  É possível ter:
 
-MAIOR VISIBILIDADE
-       │
-       ├────► REPRESENTAÇÃO
-       │          positiva
-       │
-       └────► ESTEREOTIPAÇÃO
-                  │
-                  ▼
-             "tipo social"
+    MAIOR VISIBILIDADE
+           │
+           ├────► REPRESENTAÇÃO
+           │          positiva
+           │
+           └────► ESTEREOTIPAÇÃO
+                      │
+                      ▼
+                 "tipo social"
 
  Assim, a pesquisa poderia investigar se as plataformas estão permitindo que determinados grupos *representem a si mesmos*, ou se simplesmente estão criando versões comercialmente rentáveis de determinados estereótipos.
 
@@ -604,8 +604,8 @@ MAIOR VISIBILIDADE
                   │
        ┌──────────┼──────────┐
        ▼          ▼          ▼
-   Bilionário   Romance    Vingança
-   poderoso     impossível  familiar
+    Bilionário   Romance    Vingança
+    poderoso     impossível  familiar
        │          │          │
        └──────────┼──────────┘
                   ▼
